@@ -2,7 +2,7 @@
 
 Final Project for Information Management.
 
-<font color="purple" size="5"> Project developed by Arturo Balam UPY - Data Engineering - 2025</font>
+<font color="purple" size="5"> Project developed by Team 7 - UPY - Data Engineering - 2025</font>
 
 # How to execute app.
 
