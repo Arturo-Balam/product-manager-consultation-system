@@ -1,0 +1,11 @@
+__pycache__/
+web-info-sys-env/
+instance/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+.DS_Store
+Thumbs.db
+
