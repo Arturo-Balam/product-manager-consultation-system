@@ -14,5 +14,6 @@ Execute the following command in your terminal.
 2. source any-env\Scripts\activate (git bash)
 3. pip install -r requirements.txt
 4. python app.py
+5. Go to the browser and enter: http://localhost:5000/ 
 
 </font>
